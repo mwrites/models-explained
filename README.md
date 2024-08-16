@@ -9,3 +9,4 @@
 
 # Optimization Algorithms
 - [From Momentum To Adam](./from_momentum_to_adam.ipynb)
+- [Weight Decay And Saddle Points](./saddle_points.ipynb)
